@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Ariana Lopez",
+    "picture": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=500&q=80",
+    "email": "ariana.lopez@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "travel"],
+    "bio": "We met during our final year at Dhaka University and still plan one trip every year.",
+    "goal": 14,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 2,
+    "name": "Rafiul Karim",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=500&q=80",
+    "email": "rafiul.karim@outlook.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["work", "football"],
+    "bio": "Rafi and I worked together at our first startup and we still meet for football every month.",
+    "goal": 14,
+    "next_due_date": "2026-04-29"
+  },
+  {
+    "id": 3,
+    "name": "Nusrat Jahan",
+    "picture": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?auto=format&fit=crop&w=500&q=80",
+    "email": "nusrat.jahan@yahoo.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["family friend", "books"],
+    "bio": "Our families are close, and Nusrat always recommends my next favorite Bengali novel.",
+    "goal": 10,
+    "next_due_date": "2026-05-01"
+  },
+  {
+    "id": 4,
+    "name": "Tanmoy Das",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=500&q=80",
+    "email": "tanmoy.das@proton.me",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": ["gaming", "school"],
+    "bio": "Tanmoy and I have been friends since class six, mostly bonding over late-night co-op games.",
+    "goal": 14,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 5,
+    "name": "Mehjabin Rahman",
+    "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=500&q=80",
+    "email": "mehjabin.rahman@gmail.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["design", "coffee"],
+    "bio": "We collaborate on freelance branding projects and always catch up over cappuccino after deadlines.",
+    "goal": 12,
+    "next_due_date": "2026-04-30"
+  },
+  {
+    "id": 6,
+    "name": "Sabbir Hossain",
+    "picture": "https://images.unsplash.com/photo-1504257432389-52343af06ae3?auto=format&fit=crop&w=500&q=80",
+    "email": "sabbir.hossain@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["gym", "neighbor"],
+    "bio": "Sabbir lives two blocks away and keeps me accountable with our morning workout routine.",
+    "goal": 7,
+    "next_due_date": "2026-04-30"
+  },
+  {
+    "id": 7,
+    "name": "Farzana Islam",
+    "picture": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=500&q=80",
+    "email": "farzana.islam@icloud.com",
+    "days_since_contact": 14,
+    "status": "almost due",
+    "tags": ["mentor", "career"],
+    "bio": "Farzana mentored me during my first product role and we do quarterly planning calls.",
+    "goal": 15,
+    "next_due_date": "2026-04-27"
+  },
+  {
+    "id": 8,
+    "name": "Imran Chowdhury",
+    "picture": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=500&q=80",
+    "email": "imran.chowdhury@mail.com",
+    "days_since_contact": 27,
+    "status": "overdue",
+    "tags": ["band", "creative"],
+    "bio": "Imran and I played music in a campus band; now we reconnect whenever he is back in town.",
+    "goal": 14,
+    "next_due_date": "2026-04-13"
+  }
+]
